@@ -2,7 +2,7 @@
 Hackintosh EFI
 
 |  规格   | 详细信息  |
-|  ----  | ----  |
+|  :----:  | :----:  |
 | CPU  | Intel 9700K |
 | 显卡  | UHD 630(独显买不到) |
 | 主板  | [ROG Z390-F GAMING](https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-z390-f-gaming-model/) |
