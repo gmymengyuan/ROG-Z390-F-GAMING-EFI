@@ -12,4 +12,6 @@ Hackintosh EFI
 | 网卡  | [BCM94360CD](https://item.jd.com/10021401339167.html) |
 | OS版本  | 12.0 Beta |
 | OC版本  | 0.7.2 |
+
+
 ![about](./Xnip2021-08-19_10-34-23.jpg)
