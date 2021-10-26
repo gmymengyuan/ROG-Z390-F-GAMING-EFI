@@ -15,4 +15,4 @@ Hackintosh EFI
 | OC版本  | 0.7.4 |
 
 
-![about](./Xnip2021-10-26_12-47-21.jpg)
+![about](./Xnip2021-10-26_17-20-26.jpg)
