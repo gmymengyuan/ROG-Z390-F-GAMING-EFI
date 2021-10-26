@@ -11,8 +11,8 @@ Hackintosh EFI
 | 电源  | [振华850 SUPER FLOW](https://item.jd.com/100008555706.html) |
 | 硬盘  | [SN750 500G*2](https://item.jd.com/100003226990.html) |
 | 网卡  | [BCM94360CD](https://item.jd.com/10021401339167.html) |
-| OS版本  | 11.6 |
+| OS版本  | 12.0.1 |
 | OC版本  | 0.7.4 |
 
 
-![about](./Xnip2021-10-26_10-52-09.jpg)
+![about](./Xnip2021-10-26_12-47-21.jpg)
